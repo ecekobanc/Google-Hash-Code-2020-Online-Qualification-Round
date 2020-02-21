@@ -9,4 +9,5 @@ public class Book{
         this.id = idCounter++;
         this.score = score;
     }
+    //hash
 }
